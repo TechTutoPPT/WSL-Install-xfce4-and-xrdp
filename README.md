@@ -1,5 +1,7 @@
 # WSL-Install-xfce4-and-xrdp
 
+[![](https://github.com/TechTutoPPT/WSL-Install-xfce4-and-xrdp/blob/main/cover.PNG)](https://youtu.be/fSu2mU0W1Q8)
+
 承接上一影片, 既然已安裝了WLS的Ubuntu CLI環境, 何不再為它添上友善的使用者介面.
 我們先快速確認已執行以下步驟安裝上WSL及Ubuntu(以系統管員身份開啟PowerShell並執行):
 ```
